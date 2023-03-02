@@ -4,6 +4,7 @@
         "setasign/fpdi-tcpdf": "2.3",
         "phpoffice/phpword": "^0.18.2",
         "shardj/zf1-future": "^1.20",
-        "crunzphp/crunz": "^3.3"
+        "crunzphp/crunz": "^3.3",
+        "robmorgan/phinx": "^0.13.4"
     }
 }

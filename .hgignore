@@ -30,4 +30,5 @@ config.development.php
 index-new.php
 errors.log
 scheduled-jobs/*.docx
-
+phinx.dist.php
+.idea
